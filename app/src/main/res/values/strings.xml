@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts V3</string>
+
+    <string name="titre_liste">Mes contacts</string>
+    <string name="titre_detail">Détail du contact</string>
+    <string name="titre_carte">Carte du contact</string>
+
+    <string name="hint_recherche">Rechercher un contact…</string>
+    <string name="msg_aucun_resultat">Aucun contact ne correspond à la recherche</string>
+
+    <string name="hint_nom">Nom</string>
+    <string name="hint_prenom">Prénom</string>
+    <string name="hint_tel">Téléphone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_lat">Latitude (ex : 48.8566)</string>
+    <string name="hint_lon">Longitude (ex : 2.3522)</string>
+
+    <string name="choisir_photo">Choisir une photo</string>
+    <string name="prendre_photo">Prendre une photo</string>
+    <string name="appeler">Appeler</string>
+    <string name="envoyer_email">Envoyer un e-mail</string>
+    <string name="voir_carte">Voir sur la carte</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+    <string name="retour">Retour au détail</string>
+
+    <string name="msg_champs_vides">Tous les champs sont obligatoires</string>
+    <string name="msg_email_invalide">Adresse e-mail invalide</string>
+    <string name="msg_coord_invalides">Coordonnées hors limites : latitude -90 à 90, longitude -180 à 180</string>
+    <string name="msg_coord_numerique">Latitude et longitude doivent être des nombres</string>
+    <string name="msg_coord_absentes">Aucune coordonnée valide pour ce contact</string>
+    <string name="msg_photo_galerie_annulee">Sélection de photo annulée</string>
+    <string name="msg_photo_camera_annulee">Prise de photo annulée</string>
+    <string name="msg_pas_camera">Aucun appareil photo disponible</string>
+    <string name="msg_pas_app_tel">Aucune application téléphonique disponible</string>
+    <string name="msg_pas_app_mail">Aucune application de messagerie disponible</string>
+    <string name="msg_erreur_photo">Impossible de charger l\'image</string>
+    <string name="msg_enregistre">Contact enregistré</string>
+    <string name="msg_position">Position :</string>
+</resources>

@@ -1,0 +1,14 @@
+# Fichiers générés par Gradle / Android Studio
+*.iml
+.gradle/
+build/
+.kotlin/
+.idea/
+captures/.thumbnails/
+local.properties
+.DS_Store
+*.apk
+*.aab
+
+# Dossiers de sortie locaux
+/app/release/

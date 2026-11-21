@@ -1,0 +1,14 @@
+# Normalise les fins de ligne pour GitHub
+* text=auto
+
+# Scripts shell : LF obligatoire
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Scripts Windows
+*.bat text eol=crlf
+
+# Binaires
+*.png binary
+*.webp binary
+*.jar binary

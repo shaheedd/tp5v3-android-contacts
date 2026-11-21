@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Photos importées depuis la galerie, copiées dans le stockage interne. -->
+    <files-path
+        name="photos"
+        path="photos/" />
+    <!-- Photos prises avec l'appareil photo, stockées dans le cache. -->
+    <cache-path
+        name="camera"
+        path="camera/" />
+</paths>
